@@ -26,6 +26,7 @@ Sebastian Hoang
 - Delete users
 - Update users
 - Find users
+- Find users by id
 ### Reactions
 - Create reactions
 - Remove reactions
@@ -34,6 +35,6 @@ Sebastian Hoang
 - Delete thoughts
 - Update thoughts
 - Find thoughts
-
+- Find thoughts by id
 ## License
 None
