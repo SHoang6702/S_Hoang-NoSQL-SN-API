@@ -8,6 +8,7 @@ Download from repository and set up in Insomnia as shown in the video
 
 Github Repository
 https://github.com/SHoang6702/S_Hoang-NoSQL-SN-API
+
 Youtube Link
 https://www.youtube.com/watch?v=uvueKcUfNzI
 
@@ -16,21 +17,23 @@ Collaborators:
 Sebastian Hoang
 
 ## Features
-Friends
--Add friends
--Remove friends
-Users
--Create new users
--Delete users
--Update users
--Find users
-Reactions
--Create reactions
--Remove reactions
-Thoughts
--Create new thoughts
--Delete thoughts
--Update thoughts
--Find thoughts
+
+### Friends
+- Add friends
+- Remove friends
+### Users
+- Create new users
+- Delete users
+- Update users
+- Find users
+### Reactions
+- Create reactions
+- Remove reactions
+### Thoughts
+- Create new thoughts
+- Delete thoughts
+- Update thoughts
+- Find thoughts
+
 ## License
 None
